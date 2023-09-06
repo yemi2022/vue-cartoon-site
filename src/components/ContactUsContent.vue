@@ -48,7 +48,7 @@
             ><br />
             <router-link  to="/feedback">
               <input
-              class="w-[7em] place-self-center rounded-xl bg-[#feed49] py-2 text-black shadow-xl transition hover:scale-110 tab:hover:scale-100"
+              class="w-[7em] place-self-center rounded-xl bg-[#feed49] py-2 text-black transition hover:scale-110 tab:hover:scale-100"
               type="submit"
               value="SUBMIT"
             />
